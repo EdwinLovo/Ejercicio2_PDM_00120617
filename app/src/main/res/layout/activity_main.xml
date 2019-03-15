@@ -12,47 +12,55 @@
     <ImageView
         android:layout_width="wrap_content"
         android:layout_height="@dimen/height"
-
+        android:id="@+id/image1"
         android:src="@drawable/image1" />
 
     <ImageView
         android:layout_width="wrap_content"
         android:layout_height="@dimen/height"
+        android:id="@+id/image2"
         android:src="@drawable/image2"/>
 
     <ImageView
         android:layout_width="wrap_content"
         android:layout_height="@dimen/height"
+        android:id="@+id/image3"
         android:src="@drawable/image3"/>
 
     <ImageView
         android:layout_width="wrap_content"
         android:layout_height="@dimen/height"
+        android:id="@+id/image4"
         android:src="@drawable/image4"/>
 
     <ImageView
         android:layout_width="wrap_content"
         android:layout_height="@dimen/height"
+        android:id="@+id/image5"
         android:src="@drawable/image5"/>
 
     <ImageView
         android:layout_width="wrap_content"
         android:layout_height="@dimen/height"
+        android:id="@+id/image6"
         android:src="@drawable/image6"/>
 
     <ImageView
         android:layout_width="wrap_content"
         android:layout_height="@dimen/height"
+        android:id="@+id/image7"
         android:src="@drawable/image7"/>
 
     <ImageView
         android:layout_width="wrap_content"
         android:layout_height="@dimen/height"
+        android:id="@+id/image8"
         android:src="@drawable/image8"/>
 
     <ImageView
         android:layout_width="wrap_content"
         android:layout_height="@dimen/height"
+        android:id="@+id/image9"
         android:src="@drawable/image9"/>
 
 </GridLayout>
